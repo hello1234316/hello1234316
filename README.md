@@ -2,7 +2,7 @@
 
 ### I am a human who love coding
 
-### And I love Javascript 
+### And I love Javascript and HTML
 
 ### I also made a Discord bot awa
 
