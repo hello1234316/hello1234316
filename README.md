@@ -12,7 +12,7 @@
 
 [![](https://raw.githubusercontent.com/hello1234316/hello1234316/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hello1234316/hello1234316/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![otozakayuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello1234316&show_icons=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=050F2C)](https://github.com/hello1234316)
+[![hello1234316's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello1234316&show_icons=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=050F2C)](https://github.com/hello1234316)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello1234316&show_icons=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=050F2C&layout=compact)](https://github.com/hello1234316)
 
