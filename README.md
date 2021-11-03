@@ -1,5 +1,5 @@
 ## about
-Hi there 👋,  I am human who like coding.
+Hi there 👋,  I am human who like coding.And [here](https://hello1234316.github.io/about/)is my about me website. 
 
 ## projects
 You can preview them by using this [link](https://hello1234316.github.io/work/)
