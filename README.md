@@ -9,10 +9,10 @@ You can preview them by using this [link](https://hello1234316.github.io/work/)
 - [x] JavaScript
 - [x] HTML&CSS
 
-## skills
+## languages I can speak
 
-- [x] JavaScript
-- [x] HTML&CSS
+- [x] English 
+- [x] Chinese
 
 ## content me
 
