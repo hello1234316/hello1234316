@@ -1,17 +1,20 @@
+## about
+Hi there 👋,  I am human who like coding.
 
+## projects
+You can preview them by using this [link](https://hello1234316.github.io/work/)
 
-### Hi there 👋
-
-### I am a human who love coding
-
-### And I love Javascript and HTML
-
-### I also make some websites and the other things, you can go https://hello1234316.github.io/work/ to see what I did awa
-# skills
+## skills
 
 - [x] JavaScript
 - [x] HTML&CSS
 
-![](https://github-readme-stats.vercel.app/api?username=hello1234316)   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hello1234316&layout=compact)
+## skills
 
+- [x] JavaScript
+- [x] HTML&CSS
+
+## content me
+
+-Discord: Hello Phone#8377
+-[my Discord server](https://discord.gg/CNzNZSbkMa)
