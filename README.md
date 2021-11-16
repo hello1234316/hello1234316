@@ -14,6 +14,12 @@ You can preview them by using this [link](https://hello1234316.github.io/work/)
 - [x] English 
 - [x] Chinese
 
+## what can I develop
+
+- [x] Game
+- [x] Websites
+- [x] Discord Bots
+
 ## content me
 
 -Discord: Hello Phone#8377
