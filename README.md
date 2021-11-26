@@ -15,8 +15,7 @@ You can preview them by using this [link](https://hello1234316.github.io/work/)
 - [x] Chinese
 
 ## what can I develop
-
-- [x] Game
+- [x] Apps
 - [x] Websites
 - [x] Discord Bots
 
