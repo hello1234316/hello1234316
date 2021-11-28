@@ -20,7 +20,7 @@ You can preview them by using this [link](https://hello1234316.github.io/work/)
 - [x] Discord Bots
 
 ## content me
-
--Discord: Hello Phone#8377
-
--[my Discord server](https://discord.gg/CNzNZSbkMa)
+<p align="left"> 
+    <a href="https://discord.gg/CNzNZSbkMa" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a>
+    
+</p>
