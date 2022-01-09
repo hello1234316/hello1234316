@@ -13,7 +13,6 @@
 - [x] Chinese
 
 ## what can I develop
-- [x] Apps
 - [x] Websites
 - [x] Discord Bots
 
