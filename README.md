@@ -6,6 +6,8 @@
 
 - [x] JavaScript
 - [x] HTML&CSS
+- [x] C#
+
 
 ## languages I can speak
 
@@ -14,7 +16,7 @@
 
 ## what can I develop
 - [x] Websites
-- [x] Discord Bots
+- [x] Windows apps
 
 ## content me
 <p align="left"> 
