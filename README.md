@@ -20,7 +20,7 @@
 
 ## content me
 <p align="left"> 
-    <a href="https://discord.gg/CNzNZSbkMa" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a>
+    <a href="https://discord.gg/myit" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a>
     
 </p>
 
