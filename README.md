@@ -5,16 +5,12 @@
 ## skills
 - [x] HTML&CSS
 
-
-
 ## languages I can speak
-
 - [x] English 
 - [x] Chinese
 
-## what can I develop
+## what can I make
 - [x] Websites
-- [x] Windows apps
 
 ## content me
 <p align="left"> 
