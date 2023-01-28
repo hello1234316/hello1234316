@@ -15,6 +15,7 @@
 ## content me
 <p align="left"> 
     <a href="https://discord.gg/myit" target="_blank"> <img src="https://img.icons8.com/color/48/000000/discord.png"/> </a>
+    <hr>
     <img src="https://discord.c99.nl/widget/theme-3/622373851333918720.png"/>
 </p>
 
