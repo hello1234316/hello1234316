@@ -1,10 +1,12 @@
-## about
-<h3 style="text-align: center;"><span style="color: #cc99ff;">Hi there 👋,  I am human who like coding.And <a href="https://hellophone.tk">here</a>< is my about me website. 
-</span><br><span style="color: #cc99ff;</span><br><span style="color: #cc99ff;"></span><br><span style="color: #cc99ff;"></span><br><span style="color: #cc99ff;"></span><br><span style="color: #cc99ff;"></span><br><span style="color: #cc99ff;"></span></h3>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Hello+Phone)](https://git.io/typing-svg)
 
-## skills
-- [x] HTML&CSS
-- [x] React.js
+## About me
+<h3 style="text-align: center;"><span style="color: #cc99ff;">Hi there 👋,  I am human who like coding.And <a href="https://hellophone.tk">here</a>< is my about me website. <br>
+<br>
+
+![React](https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
+![HTML](https://img.shields.io/badge/-html5-333333?style=for-the-badge&logo=html5)
+
     
     
 ## content me
@@ -14,5 +16,6 @@
     <img src="https://discord.c99.nl/widget/theme-3/622373851333918720.png"/>
 </p>
 
-[![](https://metrics.lecoq.io/hello1234316)](https://github.com/hello1234316)
-![hello1234316's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hello1234316&theme=blue-green)
+<div align="left">
+  <img height="500em" width="700em" src="https://metrics.lecoq.io/hello1234316" />
+</div>
