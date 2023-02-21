@@ -1,6 +1,5 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Hello+Phone)](https://git.io/typing-svg)
 
-## About me
 <h3 style="text-align: center;"><span style="color: #cc99ff;">Hi there 👋,  I am human who love coding.And <a href="https://hellophone.tk">here</a> is my about me website. <br>
 <br>
 
